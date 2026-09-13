@@ -722,7 +722,7 @@ Full acceptance criteria live in the tracker. This section states the format and
 
 ---
 
-**FR-UNSTICK-01 — Macro Unstick replan** *(Must)*
+**FR-UNSTICK-01: Macro Unstick replan** *(Must)*
 
 *As a user whose day has collapsed, I want the system to rebuild my remaining day so that I can resume without repairing anything myself.*
 
@@ -739,7 +739,7 @@ Acceptance criteria:
 
 ---
 
-**FR-DO-01 — Now + Next execution view** *(Must)*
+**FR-DO-01: Now + Next execution view** *(Must)*
 
 *As a user in execution mode, I want to see only what I am doing and what is next so that I am not overwhelmed by the whole day.*
 
@@ -753,7 +753,7 @@ Acceptance criteria:
 
 ---
 
-**FR-DECOMP-01 — Task decomposition** *(Must)*
+**FR-DECOMP-01: Task decomposition** *(Must)*
 
 *As a user facing an ambiguous task, I want it broken into executable steps so that I can start.*
 
@@ -768,7 +768,7 @@ Acceptance criteria:
 
 ---
 
-**FR-TRANS-01 — Transition prompting** *(Must)*
+**FR-TRANS-01: Transition prompting** *(Must)*
 
 *As a user with time blindness, I want to be told when to move so that I arrive at fixed commitments on time.*
 
@@ -802,7 +802,7 @@ The original 30 items are retained in full. They are ordered here by dependency 
 
 **Exit criteria:** a user can connect a calendar and see an assimilated day. Internal only.
 
-## Release 1: Prove the loop (~20 weeks) — the learning release
+## Release 1: Prove the loop (~20 weeks), the learning release
 *This release exists to test H1 and H4. Everything in it is in service of that.*
 
 | # | Item | Effort | Notes |
@@ -990,6 +990,6 @@ All weaknesses below are inferred from public review analysis and are **[ASSUMPT
 
 # Appendix C: Changelog
 
-**v0.3** — Split into thesis and specification halves. Added: users and JTBD (21), assumptions and hypotheses with kill conditions (22), cold start strategy (23), technical architecture constraints (24), non-functional requirements (25), AI behaviour and failure modes (26), data/privacy/regulatory (27), safety and duty of care (28), business model and unit economics (29), measurement plan with the observability paradox resolved (30), functional requirement format with four worked examples (31), sequenced MVP with effort and release exit criteria (32), risk register (33), open questions register (34). Principles given falsifiable tests. Notification policy made concrete. Naming and brand moved to appendix. Competitive detail moved to appendix with assumption markers. Vision sections condensed by roughly a third.
+**v0.3.** Split into thesis and specification halves. Added: users and JTBD (21), assumptions and hypotheses with kill conditions (22), cold start strategy (23), technical architecture constraints (24), non-functional requirements (25), AI behaviour and failure modes (26), data/privacy/regulatory (27), safety and duty of care (28), business model and unit economics (29), measurement plan with the observability paradox resolved (30), functional requirement format with four worked examples (31), sequenced MVP with effort and release exit criteria (32), risk register (33), open questions register (34). Principles given falsifiable tests. Notification policy made concrete. Naming and brand moved to appendix. Competitive detail moved to appendix with assumption markers. Vision sections condensed by roughly a third.
 
-**v0.2** — Initial full product definition.
+**v0.2.** Initial full product definition.
